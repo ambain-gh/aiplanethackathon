@@ -1,1 +1,1 @@
-# aiplanethackathon
+A predictive model was developed using Random Forest to classify network activities as either Normal or Neptune attacks, utilizing a dataset of 86,845 records for training and 21,712 records for testing. Advanced machine learning techniques were applied to analyze and preprocess the network data, enhancing the model's accuracy in detecting SYN flood attacks. Comprehensive evaluation and tuning of the model were conducted, resulting in strong performance in this binary classification task.
